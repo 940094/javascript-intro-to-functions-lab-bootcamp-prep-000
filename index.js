@@ -1,4 +1,4 @@
 function shout(string) {
-  var caps = string.toUpperCase()
+  return string.toUpperCase()
   return caps
 }
